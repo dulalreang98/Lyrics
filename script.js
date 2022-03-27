@@ -1,6 +1,6 @@
 const form = document.getElementById('form')
-const form = document.getElementById('search')
-const form = document.getElementById('result')
+const search = document.getElementById('search')
+const result = document.getElementById('result')
 
 const apiURL = 'http://api.lyrics.ovh';
 
